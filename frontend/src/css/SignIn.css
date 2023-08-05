@@ -1,0 +1,28 @@
+.signIn{
+    background-image: url("../static/bacground.jpg");
+    background-size: cover;
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginForm{
+    background-color: #ffffff4d;
+    padding: 30px;
+    border: 1px solid rgb(67, 57, 57);
+    border-radius: 6px;
+}
+.loginForm2{
+    margin-top: 5px;
+}
+#loginbtn{
+    background-color: #1773EA;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    width: 80%;
+    cursor: pointer;
+    margin-top: 8px;
+}
